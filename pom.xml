@@ -16,10 +16,6 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
-	<!-- mvn com.tocchetto:vdldoc-maven-plugin:1.0.0-SNAPSHOT:help -Ddetail=true 
-		-Dgoal=generate mvn com.tocchetto:vdldoc-maven-plugin:1.0.0-SNAPSHOT:generate 
-		-Dtaglib=primefaces-p.taglib.xml -DoutputDirectory=vdldoc-primefaces -->
-
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.maven</groupId>
