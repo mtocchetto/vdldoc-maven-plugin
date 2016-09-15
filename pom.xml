@@ -10,8 +10,7 @@
 	<name>VDLDoc Maven Plugin</name>
 	<description>Generates VDL Documentation over taglib.xml files using Omnifaces Vdldoc</description>
 
-	<!-- FIXME change it to the project's website -->
-	<url>http://maven.apache.org</url>
+	<url>https://github.com/mtocchetto/vdldoc-maven-plugin</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
