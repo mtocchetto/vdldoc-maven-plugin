@@ -4,6 +4,8 @@ Maven plugin designed for enable maven users to create javadocs based on taglibs
 
 It works declaring the plugin inside a pom.xml file and binding the execution at any lifecycle phase to execute the goal _generate_ or running directly from the command line. 
 
+Please use the command line help to see all available parameters.
+
 ## Command line help
 
     mvn com.tocchetto:vdldoc-maven-plugin:1.0.0-SNAPSHOT:help -Ddetail=true -Dgoal=generate 
