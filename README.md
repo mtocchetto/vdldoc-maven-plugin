@@ -1,6 +1,8 @@
 # vdldoc-maven-plugin
 
-Maven plugin designed for enable maven users to create javadocs based on taglibs xml files using the the class "org.omnifaces.vdldoc.VdldocGenerator" provided by the Vdldoc project available at http://vdldoc.omnifaces.org  
+Maven plugin designed for enable maven users to create javadocs based on taglibs xml files using the the class _"org.omnifaces.vdldoc.VdldocGenerator"_ provided by the Vdldoc project available at http://vdldoc.omnifaces.org  
+
+It works declaring the plugin inside a pom.xml file and binding the execution at a lifecycle phase or running directly from the command line. 
 
 ## Command line help
 
